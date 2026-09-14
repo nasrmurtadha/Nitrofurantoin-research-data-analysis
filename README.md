@@ -6,6 +6,7 @@ This project presents the structured analysis of experimental data from my pharm
 The workflow included data organization, quality-control calculations, visualization, drug-content analysis, in-vitro release analysis, release-kinetic modeling, and comparative formulation assessment.
 ![Nitrofurantoin Calibration Curve](calibration%20curve.png)
 ![Nominal Cumulative Nitrofurantoin Release](nominal-cumulative-release.png)
+![QC Dashboard](qc-dashboard.png)
 ## Tools
 Microsoft Excel • AI-assisted workflows • Data visualization • Quality control
 ## Research Focus
